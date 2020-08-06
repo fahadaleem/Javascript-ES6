@@ -1,6 +1,6 @@
-// Destructing 
+// Destructuring 
 
-// Destructing is the new way to extract data from data structure like arrays or Objects.
+// Destructuring is the new way to extract data from data structure like arrays or Objects.
 // In ES5, We can access data from arrays like this
 
 var person5 = ["John", 20];
